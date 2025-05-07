@@ -1,4 +1,4 @@
-# Enhanced Sentiment Analysis Model
+# Sentiment Analysis Model
 
 ## Overview
 
@@ -113,3 +113,13 @@ The following visualizations illustrate how the model performs, how confident it
 
 - **Sentiment Filtering Behavior**  
   ![Sentiment Filtering](plots/sentiment_filtering.png)
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+- Author: Hiruna Gallage
+- Website: [hiruna.dev](https://hiruna.dev)
+- Email: [hello@hiruna.dev](mailto:hello@hiruna.dev)

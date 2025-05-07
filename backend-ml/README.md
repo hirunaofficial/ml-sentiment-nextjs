@@ -1,4 +1,4 @@
-# Enhanced Sentiment Analysis API
+# Sentiment Analysis API
 
 A FastAPI application for sentiment analysis with improved confidence scores and detailed predictions.
 
@@ -98,3 +98,13 @@ The sentiment analysis model uses:
 - TF-IDF vectorization with n-grams
 - Sentiment lexicons for confidence boosting
 - Feature extraction for improved accuracy
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+- Author: Hiruna Gallage
+- Website: [hiruna.dev](https://hiruna.dev)
+- Email: [hello@hiruna.dev](mailto:hello@hiruna.dev)
