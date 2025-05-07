@@ -39,6 +39,31 @@ The sentiment analysis model is designed to classify text as positive or negativ
 - Average Confidence Score: ~82%
 - Balanced precision and recall (both ~0.89)
 
+**Model Evaluation Plots**
+
+Our model performance can be visualized through these key plots:
+
+#### Confidence Distribution
+![Confidence Distribution](model-training/plots/confidence_distribution.png)
+
+This plot shows the distribution of confidence scores across predictions, demonstrating the model's high certainty in most cases.
+
+#### Word Clouds
+![Positive Word Cloud](model-training/plots/positive_wordcloud.png)
+![Negative Word Cloud](model-training/plots/negative_wordcloud.png)
+
+These word clouds visualize the most influential terms for positive and negative sentiment classifications.
+
+#### Performance Curves
+![ROC Curve](model-training/plots/roc_curve.png)
+
+The ROC curve demonstrates the model's excellent discrimination ability between positive and negative sentiments.
+
+#### Confusion Matrix
+![Calibrated Confusion Matrix](model-training/plots/calibrated_confusion_matrix.png)
+
+The confusion matrix shows the model's prediction accuracy, highlighting its balanced performance across sentiment classes.
+
 [View Model Training README →](./model-training/README.md)
 
 ### 2. Backend API
